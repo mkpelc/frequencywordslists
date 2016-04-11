@@ -1,34 +1,36 @@
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 OVERVIEW
------------------------------------------------------------------------------------------------
-- This work consist of 26 files.
-- Each of them contains list of words starting on one letter
-- Lists are sorted by frequency of usage. 
+-------------------------------------------------------------------------------------------------
+Lists of words divided by letter and sorted by frequency of usage.
+Content:
+- List consists of 26 files for each language.
+- English and polish languages are available
+- Each of the files contains words starting on one given letter and sorted by frequency of usage.
 
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 SOURCE
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 These wordlists are created from word lists available on "Frequency Word Lists" -
 https://invokeit.wordpress.com/frequency-word-lists/
 which were created by Hermit Dave on Creative Commons – Attribution / ShareAlike 3.0 license
 
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 LICENSE
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 Creative Commons – Attribution / ShareAlike 3.0 license applies to the use of these word lists.
 (http://creativecommons.org/licenses/by-sa/3.0/)
 
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 CHANGES TO THE ORIGINAL
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 - Not all words has been taken from the source.
 - Taken words were tried to be filtered out from unexisting and swear words (there is no 
   guarantee that all of the swear, inaproprriate or offensive words has been removed)
 - Words had been divided and grouped by letter (26 files)
 
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 LIMITATION OF LIABILITY
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 - These words lists should not be considered as free of: 
     - swears, 
     - offensive words,
@@ -39,8 +41,8 @@ LIMITATION OF LIABILITY
   any sense
 - The author is not liable for the consequences of using these wordlists.
 
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 CONTACT
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 - Marek Pelc
 - mkpelc@o2.pl
