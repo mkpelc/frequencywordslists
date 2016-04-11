@@ -8,7 +8,7 @@ OVERVIEW
 -----------------------------------------------------------------------------------------------
 SOURCE
 -----------------------------------------------------------------------------------------------
-These wordlists are created from word lists available on 
+These wordlists are created from word lists available on "Frequency Word Lists" -
 https://invokeit.wordpress.com/frequency-word-lists/
 which were created by Hermit Dave on Creative Commons – Attribution / ShareAlike 3.0 license
 
