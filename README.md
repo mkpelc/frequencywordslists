@@ -1,4 +1,4 @@
-# frequencywordslists
+# Frequency Words Lists
 Lists of words divided by letter and sorted by frequency of usage.
 
 Available langugages:
